@@ -5,4 +5,5 @@
     "[liquid-css]": {
         "editor.formatOnSave": false
     },
+    "editor.defaultFormatter": null,
 }
