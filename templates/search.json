@@ -1,13 +1,3 @@
-<<<<<<< HEAD
-{
-    "sections": {
-        "template": {
-            "type": "template-search"
-        }
-    },
-    "order": ["template"]
-}
-=======
 {
   "sections": {
     "template": {
@@ -20,4 +10,3 @@
     "template"
   ]
 }
->>>>>>> 09b6b83fcb08a6517a1edbc698d6e87319520c61
