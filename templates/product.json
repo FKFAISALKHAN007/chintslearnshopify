@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "sections": {
         "template":{
@@ -24,3 +25,63 @@
     },
     "order": ["template"]
 }
+=======
+{
+  "sections": {
+    "template": {
+      "type": "template-product",
+      "blocks": {
+        "vendor": {
+          "type": "vendor",
+          "settings": {
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_selector": {
+          "type": "variant_selector",
+          "settings": {
+          }
+        },
+        "quantity": {
+          "type": "quantity",
+          "settings": {
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
+        "checkout_buttons": {
+          "type": "checkout_buttons",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "price",
+        "variant_selector",
+        "quantity",
+        "description",
+        "checkout_buttons"
+      ],
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "template"
+  ]
+}
+>>>>>>> 09b6b83fcb08a6517a1edbc698d6e87319520c61
