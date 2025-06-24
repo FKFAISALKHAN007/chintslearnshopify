@@ -1,13 +1,45 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
-        "featured_collection": "all"
+        "title": "Featured Collection",
+        "featured_collection": "all",
+        "number_of_products_to_show": 4
       }
+    },
+    "175075630893dc1169": {
+      "type": "apps",
+      "blocks": {
+        "foxsell_custom_product_carousel_basic_GzRMAD": {
+          "type": "shopify://apps/foxsell/blocks/custom_product_carousel_basic/8af31731-4b2e-455d-bbf0-ce3debb3c4bf",
+          "settings": {
+            "featured_product_list": [
+              "adidas-classic-backpack",
+              "adidas-classic-backpack-legend-ink-multicolour",
+              "adidas-kids-stan-smith",
+              "adidas-superstar-80s"
+            ]
+          }
+        }
+      },
+      "block_order": [
+        "foxsell_custom_product_carousel_basic_GzRMAD"
+      ],
+      "settings": {}
     }
   },
   "order": [
-    "featured-collection"
+    "featured-collection",
+    "175075630893dc1169"
   ]
 }
